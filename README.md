@@ -6,7 +6,7 @@ This is a simple todo app / note taking app that allows users to save what they 
 
 You can try the live demo right here: [https://narcootodo.netlify.app/](https://narcootodo.netlify.app/)
 
-![screenshot]([https://media.discordapp.net/attachments/941494130670985257/1090390844214882325/image.png?width=642&height=325](https://media.discordapp.net/attachments/1030155603303219353/1094752197046194289/image.png?width=1337&height=675))
+![screenshot](https://media.discordapp.net/attachments/1030155603303219353/1094752197046194289/image.png?width=1337&height=675)
 
 ## Getting Started
 
